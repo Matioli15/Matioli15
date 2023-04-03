@@ -14,5 +14,6 @@
 </div>
 
 ### Minhas redes sociais:
-<a href="https://www.linkedin.com/in/christopher-matioli-872514270/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
 <a href="https://www.instagram.com/matioli_15/"><img src="https://img.shields.io/badge/Instagram-F6F6F6?style=for-the-badge&logo=Instagram&logoColor=rose"></img></a>
+<a href="https://www.linkedin.com/in/christopher-matioli-872514270/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=blue"> </img></a>
+
